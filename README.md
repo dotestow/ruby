@@ -1,4 +1,3 @@
-ruby
+Sample ruby scripts
 ====
 
-sample ruby scripts
