@@ -1,0 +1,2602 @@
+5100001     Bialogard
+5100002     Bialystok
+5100003     Brzeg
+5100004     Brzeg Dolny
+5100005     Bydgoszcz Glowna
+5100006     Bytom
+5100007     Czestochowa
+5100008     Duszniki Zdroj
+5100009     Gdansk Glowny
+5100010     Gdynia Glowna
+5100011     Gliwice
+5100012     Glogow
+5100013     Gniezno
+5100014     Gorzow Wlkp.
+5100015     Inowroclaw
+5100016     Jarocin
+5100017     Kalisz
+5100018     Kamieniec Zabkowicki
+5100019     Karpacz
+5100020     Katowice
+5100022     Kielce
+5100023     Kepno
+5100024     Koluszki
+5100025     Kolobrzeg
+5100026     Konin
+5100027     Koszalin
+5100028     Krakow Glowny
+5100029     Krynica
+5100030     Krzyz
+5100031     Kudowa Zdroj
+5100032     Kutno
+5100033     Kuznica Bialostocka
+5100034     Ladek Zdroj
+5100035     Legnica
+5100036     Leszno
+5100037     Lublin
+5100038     Lodz Chojny
+5100039     Lodz Kaliska
+5100040     Malbork
+5100041     Muszyna
+5100042     Nowy Sacz
+5100043     Nowa Sol
+5100044     Nysa
+5100045     Olsztyn Glowny
+5100046     Opole Glowne
+5100047     Ostrow Wlkp.
+5100048     Oswiecim
+5100049     Pila Glowna
+5100050     Polanica Zdroj
+5100051     Prudnik
+5100052     Radom
+5100053     Siedlce
+5100054     Sieradz
+5100055     Slupsk
+5100056     Sopot
+5100057     Szczecin Glowny
+5100058     Szklarska Poreba Gorna
+5100059     Swinoujscie
+5100061     Tczew
+5100062     Torun Glowny
+5100063     Ustka
+5100064     Walbrzych Glowny
+5100065     Warszawa Centralna
+5100066     Warszawa Wschodnia
+5100067     Warszawa Zachodnia
+5100068     Wegliniec
+5100069     Wroclaw Glowny
+5100070     Zabrze
+5100071     Zbaszynek
+5100072     Trzebinia
+5100073     Chorzow Miasto
+5100074     Tarnowskie Gory
+5100075     Ilawa Glowna
+5100076     Strzelin
+5100077     Jaworzyna Sl.
+5100078     Marciszow
+5100079     Boleslawiec
+5100080     Olesnica(PL)
+5100081     Poznan Gl.
+5100082     Rzepin
+5100083     Kunowice
+5100084     Terespol
+5100085     Zgorzelec
+5100086     Biala Podlaska
+5100087     Malkinia
+5100088     Radomsko
+5100089     Augustow
+5100091     Chabowka
+5100092     Chodziez
+5100094     Choszczno
+5100095     Ciechanow
+5100096     Czerwiensk
+5100097     Czyzew
+5100098     Dabrowa Gornicza Zabkowice
+5100099     Deblin
+5100100     Dzialdowo
+5100101     Fosowskie
+5100102     Gizycko
+5100103     Godkow
+5100105     Goleniow
+5100106     Gorzow Wlkp. Wieprz.
+5100107     Gryfice
+5100108     Gryfino
+5100109     Gryfow Sl.
+5100110     Grzmiaca
+5100111     Herby Nowe
+5100113     Jablonowo Pomorskie
+5100114     Jedlina Zdroj
+5100115     Jedrzejow
+5100116     Jordanow
+5100117     Kalety
+5100118     Kalwaria Lanckorona
+5100119     Kedzierzyn Kozle
+5100120     Ketrzyn
+5100121     Kielce Herbskie
+5100122     Koniecpol
+5100123     Korsze
+5100124     Koscian
+5100125     Kowalewo Pomorskie
+5100126     Lobez
+5100127     Lapy
+5100128     Laskowice Pomorskie
+5100129     Lebork
+5100130     Skawina
+5100131     Slawno
+5100132     Sokolka
+5100133     Sosnowiec Glowny
+5100135     Stare Bielice
+5100136     Stronie
+5100137     Strzelce Kraj.Wschod
+5100138     Strzelce Opolskie
+5100139     Stroze
+5100140     Sucha Beskidzka
+5100141     Suwalki
+5100142     Swidwin
+5100143     Szamotuly
+5100144     Szczecin Dabie
+5100145     Szczecin Gumience
+5100146     Szczecin Podjuchy
+5100147     Szczytno
+5100148     Szepietowo
+5100149     Trzcianka
+5100150     Trzebiatow
+5100151     Tunel
+5100152     Ustronie Morskie
+5100153     Wejherowo
+5100154     Wloszczowa
+5100155     Wolow
+5100157     Wrzesnia
+5100158     Zakopane
+5100159     Zasieki
+5100160     Zdunska Wola Karsz.
+5100162     Ziebice
+5100164     Czerwonka
+5100165     Jelenia Gora Ciepl.
+5100167     Lowicz Glowny
+5100168     Lukow
+5100169     Stare Jablonki
+5100172     Warszawa Gdanska
+5100174     Mrozy
+5100175     Myslowice
+5100176     Naleczow
+5100177     Namyslow
+5100178     Nasielsk
+5100179     Nowa Ruda
+5100180     Nowogard
+5100181     Nowy Targ
+5100182     Oborniki Slaskie
+5100183     Oborniki Wlkp.
+5100185     Olesno Slaskie
+5100188     Pabianice
+5100189     Pilawa
+5100190     Piotrkow Trybunalski
+5100191     Pisz
+5100192     Pleszew
+5100193     Ploty
+5100194     Prabuty
+5100195     Przeworsk
+5100197     Sosnowiec Pld
+5100198     Stargard Szczecinski
+5100199     Scinawa
+5100201     Raclawice Sl.
+5100202     Rawicz
+5100203     Rogozno Wlkp.
+5100204     Ruciane Nida
+5100206     Rudna Gwizdanow
+5100207     Runowo Pomorskie
+5100208     Sedziszow
+5100209     Skarzysko Kamienna
+5100210     Walbrzych Miasto
+5100211     Zagan
+5100212     Zawiercie
+5100213     Jaworzno Szczakowa
+5100214     Kostrzyn
+5100215     Malaszewicze
+5100216     Ostroda
+5100218     Miechow
+5100219     Mlawa
+5100220     Mogilno
+5100221     Wysoka Kamienska
+5100222     Zielona Gora
+5100223     Ostrzeszow
+5100224     Luban Sl.
+5100225     Miedzylesie
+5100226     Poznan Staroleka
+5100227     Bochnia
+5100228     Debica
+5100229     Rzeszow Glowny
+5100230     Tarnow
+5100231     Zdunska Wola
+5100232     Zgorzelec Miasto
+5100233     Jaroslaw
+5100234     Przemysl Gl.
+5100235     Czestochowa Stradom
+5100236     Kluczbork
+5100237     Lubliniec
+5100238     Krakow Prokocim Os.
+5100239     Szczecinek
+5100240     Krakow Plaszow
+5100242     Tuplice
+5100243     Zary
+5100244     Krzewina Zgorzelecka
+5100245     Olesnica Rataje
+5100246     Warszawa Srodmiescie
+5100247     Kamien Pomorski
+5100248     Nidzica
+5100250     Dabrowa Gornicza
+5100251     Czechowice-Dziedzice
+5100252     Miedzyzdroje
+5100253     Elblag
+5100254     Naklo n. Notecia
+5100255     Wroclaw Nadodrze
+5100256     Wielun Dabrowa
+5100257     Zabrzeg
+5100258     Kolo
+5100259     Jelenia Gora
+5100260     Tychy
+5100261     Witnica
+5100262     Rybnik(PL)
+5100263     Raciborz
+5100264     Zebrzydowice
+5100273     Rawa Zamkowa Wola
+5100276     Tychy Lodowisko
+5100277     Tychy Gr. Roweckiego
+5100278     Tychy Al. Bielska
+5100279     Wieliczka Bogucice
+5100281     Cisna
+5100282     Wetlina
+5100283     Ustrzyki Gorne
+5100294     Skierniewice
+5100295     Dabroszyn
+5100296     Kamien Maly
+5100297     Nowiny Wielkie
+5100298     Bogdaniec
+5100299     Lupowo
+5100301     Trakiszki
+5100302     Braniewo
+5100303     Chelm
+5100304     Chojnice
+5100305     Elk
+5100306     Jaslo
+5100307     Krotoszyn
+5100309     Maldyty
+5100310     Morag
+5100311     Paslek
+5100312     Sanok
+5100313     Stalowa Wola
+5100314     Stalowa Wola Rozwaduv
+5100315     Wloclawek
+5100316     Bielsko Biala Glowna
+5100319     Bedow
+5100320     Hordziezka
+5100322     Wolka Kanska
+5100323     Legionowo Piaski
+5100324     Zugienie
+5100326     Glowno
+5100327     Mieszaki
+5100328     Tarnowiec Brzeski
+5100330     Pruszkow
+5100331     Tomaszow Mazow.
+5100332     Trzciniec(Bydgoszczy)
+5100334     Antoniowka
+5100335     Lodz Andrzejow
+5100336     Andrychow Gornica
+5100337     Anieliny
+5100338     Andrzejowka
+5100339     Aleksandrow Kujawski
+5100340     Andrychow
+5100341     Antoniow
+5100342     Antonin
+5100344     Augustow Port
+5100345     Arcelin
+5100346     Annoslaw
+5100347     Augustowka
+5100349     Azory
+5100350     Babica
+5100355     Basznia Dolna
+5100357     Boza Wola
+5100359     Barchow
+5100360     Baciuty
+5100361     Bajtkowo
+5100363     Balin
+5100366     Baborowko
+5100367     Bardo Przylek
+5100369     Basznia
+5100370     Batowice Lubanskie
+5100371     Bakow
+5100372     Baby
+5100373     Baboszewo
+5100376     Brzoza Bydgoska
+5100379     Bielsko Biala Leszc.
+5100380     Bielsko Biala Lipnik
+5100381     Bielsko Biala Mikus.
+5100382     Bialy Bor
+5100383     Bielsko Biala Pln
+5100386     Brzeznica Bychawska
+5100388     Belecin Wlkp.
+5100392     Barcice
+5100393     Bogoniowice Ciezkow.
+5100396     Brzezno Czluchowskie
+5100397     Boczow
+5100398     Babi Dol
+5100399     Brody Ilzeckie
+5100400     Budki Nowe
+5100401     Brodnica
+5100404     Bialy Dunajec
+5100405     Brody Warszawskie
+5100406     Bartodzieje
+5100407     Bedon
+5100410     Bedzin
+5100411     Belchow
+5100414     Bedzino
+5100415     Berezow
+5100416     Besko
+5100420     Bogaczewo
+5100421     Bogaczow
+5100422     Brzeg Glogowski
+5100423     Bogumilowice
+5100425     Boguszyce
+5100427     Boguszewo
+5100428     Boguszow Gorce Wsch.
+5100429     Boguszow Gorce
+5100431     Biala
+5100432     Biadki
+5100433     Bialystok Bacieczki
+5100435     Biadoliny
+5100438     Bilgoraj
+5100439     Bielsko Biala Wschod
+5100440     Bialynin
+5100441     Bielin
+5100443     Bialun
+5100444     Bielsko Biala Komor.
+5100447     Biala k. Piszu
+5100449     Bierawa
+5100450     Bialosliwie
+5100452     Biskupice k. Kluczb.
+5100455     Biesal
+5100456     Bialy Kosciol
+5100457     Bincze
+5100458     Bujaki
+5100459     Bojanowo
+5100464     Babica Kolonia
+5100465     Baranowka
+5100466     Bierkowice
+5100467     Borkowice
+5100470     Bukwald
+5100471     Brokecino
+5100472     Barzkowice
+5100474     Bedzin Ksawera
+5100475     Biskupnica
+5100476     Bakowiec
+5100477     Bukowina Sycowska
+5100480     Boleszkowice
+5100481     Bolechowo
+5100482     Balinka
+5100483     Blazkowa
+5100484     Bladzim
+5100486     Blotnica
+5100487     Blaszki
+5100488     Biskupice Lubelskie
+5100491     Blizna
+5100492     Babimost
+5100493     Bedzin Miasto
+5100494     Bobrowo Pomorskie
+5100495     Bedzmirowice
+5100496     Blonie
+5100499     Biniew
+5100503     Bieniow
+5100505     Biernatowo
+5100507     Bobry
+5100508     Bobowa
+5100509     Bobowa Miasto
+5100511     Boguszow Gorce Zach.
+5100515     Boguchwala
+5100517     Bojary
+5100518     Boksycka
+5100519     Biskupice Olawskie
+5100523     Bieliny Opoczynskie
+5100524     Borkowo
+5100525     Borki Kosy
+5100526     Boszkowo
+5100528     Borsukowka
+5100530     Bobrowniki
+5100533     Bozacin
+5100537     Biala Pilska
+5100538     Biskupiec Pomorski
+5100539     Bielsk Podlaski
+5100541     Bieczyno Pomorskie
+5100544     Bozepole Wielkie
+5100545     Borowiki
+5100548     Boreczek
+5100552     Brzozowiec Gorzowski
+5100553     Brachlewo
+5100555     Brzeszcze Jawiszowi.
+5100557     Barlogi
+5100558     Bronow
+5100559     Boronow
+5100560     Bobrowka
+5100561     Borki Opolskie
+5100562     Brzezno
+5100563     Brochocin Trzebnicki
+5100565     Bartnica
+5100566     Bierutow
+5100567     Biala Rawska
+5100570     Borszewice
+5100574     Brzezinka Sredzka
+5100575     Bialki Siedleckie
+5100576     Bardo Slaskie
+5100578     Boleslawice Swidnic.
+5100579     Bialystok Starosie.
+5100580     Blotnica Strzelecka
+5100581     Bialystok Stadion
+5100582     Biesowice
+5100584     Baszewice
+5100585     Bukowice Trzebnickie
+5100586     Bartag
+5100587     Bytom Bobrek
+5100589     Bratkow
+5100590     Bytonia
+5100592     Brzoza Torunska
+5100593     Bratoszewice
+5100594     Bednary
+5100596     Buk
+5100597     Buchalow
+5100599     Barucice
+5100600     Budachow
+5100602     Budziszowice
+5100603     Budy Glogowskie
+5100607     Bukowa
+5100608     Bulowice
+5100609     Bukowiec Miedzyrz.
+5100610     Bukowno
+5100611     Bukowo
+5100614     Burkat
+5100615     Brusy
+5100616     Bursztynowo
+5100617     Bukowo Czluchowskie
+5100627     Barwald Sredni
+5100628     Borowa Olesnicka
+5100629     Barwald Gorny
+5100632     Bialystok Wiadukt
+5100633     Brwinow
+5100635     Biskupice Wlkp
+5100640     Borowina
+5100641     Bydgoszcz Akademia
+5100642     Bydgoszcz Bielawy
+5100643     Byczyna Kluczborska
+5100644     Bydgoszcz Brdyujscie
+5100646     Bydgoszcz Fordon
+5100647     Bydgoszcz Lesna
+5100648     Bydgoszcz Wschod
+5100649     Bytnica
+5100650     Bytom Rojca
+5100651     Bytom Karb
+5100652     Bydgoszcz Legnowo
+5100653     Budzyn
+5100654     Bytom Odrzanski
+5100655     Bytom Pln
+5100656     Bystrzyca Klodzka
+5100657     Bytom Radzionkow
+5100658     Bystra Podhalanska
+5100660     Bystrzyca k. Lublina
+5100661     Bydgoszcz Osowa Gora
+5100664     Bydgoszcz Zachod
+5100665     Bzowiec
+5100666     Barczaca
+5100667     Brzozowica
+5100669     Brzozki
+5100671     Brzesko Okocim
+5100673     Bierzwnik
+5100675     Bystrzyca Kl. Przed.
+5100678     Bialy Zdroj Pld.
+5100679     Bedziemysl
+5100682     Brzustow
+5100683     Barczewo
+5100685     Brzeszcze
+5100686     Chalupy
+5100687     Charsznica
+5100688     Czarny Blok
+5100691     Chelm Cementownia
+5100694     Ciecina
+5100695     Chociszewo Rogozini.
+5100696     Chociszew
+5100697     Czernica Wroclawska
+5100700     Ceglow
+5100701     Cekcyn
+5100702     Celestynow
+5100705     Cerkiewnik
+5100707     Czachowek Gorny
+5100708     Chalupki
+5100709     Chmielniki Bydgoskie
+5100710     Chechlo
+5100712     Chelmek Fabryka
+5100713     Chocznia Gorna
+5100719     Charnowo Slupskie
+5100720     Chojna
+5100722     Chrosna
+5100723     Chorzow Stary
+5100727     Chybie
+5100728     Chrzanow
+5100729     Cisie
+5100730     Ciasna
+5100732     Ciechanowice
+5100733     Cierpigorz
+5100734     Ciechocinek
+5100735     Cienin
+5100736     Cieksyn
+5100740     Ciecholub
+5100741     Ciechanow Przemysl.
+5100742     Ciecierzyn
+5100743     Cieplewo
+5100745     Cienin Koscielny
+5100746     Czekanow
+5100747     Cikowice
+5100749     Czernikowo
+5100752     Cieszyno Lobeskie
+5100753     Czeluscin
+5100755     Czluchow
+5100759     Chludowo
+5100760     Czeslawice
+5100761     Chelmza
+5100762     Czarne Male
+5100764     Chmielowice
+5100767     Cieszyn Marklowice
+5100768     Chelm Miasto
+5100770     Cmolas
+5100771     Czempin
+5100774     Czarlin
+5100775     Czerna
+5100776     Czarnobor
+5100777     Czarnocin
+5100778     Czarne
+5100781     Czerna Mala
+5100782     Chrusty Nowe
+5100783     Czarnowasy
+5100784     Chroscina Nyska
+5100785     Chrzastowice Olkusk.
+5100786     Chorzow Batory
+5100788     Chocicza
+5100789     Chojnik
+5100792     Chocznia
+5100793     Chojnow
+5100794     Chroscina Opolska
+5100796     Chociwel
+5100800     Cierpice
+5100801     Czepino
+5100802     Czuprynowo
+5100803     Czersk
+5100805     Chroscice
+5100806     Chrzesne
+5100807     Chronow
+5100809     Chrosnica
+5100811     Chruszczobrod
+5100813     Czeruchy
+5100814     Chrzastowice
+5100815     Cisiec
+5100816     Czersk Swiecki
+5100817     Chelm Sl.
+5100819     Chrzanow Srodmiescie
+5100824     Czestochowa Aniolow
+5100826     Chotomow
+5100827     Czestochowa Rakow
+5100828     Chotylow
+5100831     Czerniewice
+5100832     Czeska Wies
+5100837     Czerwonak
+5100838     Chelmek Wolowski
+5100839     Czarnowesy Pom.
+5100843     Czechowizna
+5100845     Cybowo
+5100849     Chybie Mnich
+5100850     Chynow
+5100852     Czachowek Pld.
+5100853     Czarna Bialostocka
+5100855     Czechowice-Dziedzice Przystanek
+5100856     Czechowice-Dziedzice Pld.
+5100858     Czachowek Wsch.
+5100860     Czerniejewo
+5100861     Cieszkow
+5100863     Czeremcha
+5100864     Czarna Woda
+5100866     Czaplinek
+5100867     Czermno
+5100868     Czarnca
+5100869     Czastary
+5100870     Czarna Tarnowska
+5100871     Czudec
+5100873     Cieszyn
+5100875     Dalekie
+5100876     Dalanowek
+5100877     Dabrowy
+5100878     Dabrowa Chelminska
+5100879     Daleszewo Gryfinskie
+5100880     Drzymalowo
+5100884     Dabkowizna
+5100885     Dalecino
+5100886     Damnica
+5100889     Dabrowa Gornicza Poludniowa
+5100891     Daszewo
+5100893     Dabrowka Wlkp.
+5100894     Daniszyn
+5100900     Dabrowa Bialostocka
+5100904     Dabrowka Malborska
+5100905     Dabrowa Olesnicka
+5100912     Drzycim
+5100913     Dzieczyn
+5100914     Dziadowki
+5100917     Deba Opoczynska
+5100918     Debska Kuznia
+5100922     Deba Rozalin
+5100923     Deszczno
+5100924     Debe Wielkie
+5100925     Dabrowa Gornicza Golonog
+5100928     Dabrowa Gornicza Sikorka
+5100929     Dabrowa Gornicza Strzemieszyce
+5100930     Dabrowa Gornicza Wschodnia
+5100934     Debowy Gaj
+5100935     Dziemiany Kaszubskie
+5100937     Dankowice
+5100938     Dobryszyce k.Radoms.
+5100942     Dlugie
+5100944     Dlugoleka
+5100947     Dlugopole Zdroj
+5100950     Czerwonak Osiedle
+5100951     Dominow
+5100956     Dabrowa Niemodlinska
+5100958     Drzonowo
+5100959     Dolice
+5100961     Dobczyn
+5100962     Dobrocin
+5100963     Dobrzyniewo Duze
+5100964     Dobre Miasto
+5100966     Dobiegniew
+5100969     Dolnik
+5100970     Domanin
+5100971     Domaniewice
+5100972     Dolna Odra
+5100973     Dopiewo
+5100974     Dorohusk
+5100975     Domaszkow
+5100977     Domislaw
+5100978     Dobrzyn
+5100979     Domaszowice
+5100980     Drawsko Pomorskie
+5100982     Dragacz
+5100983     Drzewce
+5100985     Drygaly
+5100986     Drzewica
+5100987     Drawski Mlyn
+5100988     Dobron
+5100989     Drogomysl
+5100990     Druzyna Poznanska
+5100992     Drawiny
+5100994     Drzensko
+5100995     Dabrowice Skierniew.
+5101000     Dubielno
+5101002     Dulowa
+5101004     Dunowo
+5101007     Dobino Waleckie
+5101009     Dobrowoda
+5101013     Dziwno
+5101015     Dziewule
+5101017     Dygowo
+5101018     Dobrynka
+5101020     Dytmarow
+5101026     Dobroszyce
+5101027     Dobrzechow
+5101029     Dobrzejewice
+5101030     Dobrzen Wielki
+5101031     Dziembowko
+5101032     Dzierzanow Wlkp.
+5101034     Dziergowice
+5101035     Dzierzoniow Sl.
+5101036     Dzietrzniki
+5101038     Dobieszyn
+5101040     Elk Szyba Wschod
+5101042     Elk Szyba Zachod
+5101045     Falkowo
+5101046     Fasty
+5101048     Firlus
+5101049     Frysztak
+5101050     Fronolow
+5101054     Fiszewo
+5101056     Garbce
+5101058     Gadki
+5101059     Gorazdze
+5101060     Gaglawki
+5101063     Gajowka
+5101064     Galkowek
+5101066     Gamerki Wielkie
+5101067     Garwolin
+5101069     Gasawy Plebanskie
+5101071     Gasocin
+5101072     Garbatka Letnistko
+5101073     Granowiec
+5101075     Garczyn
+5101079     Grabow Szlachecki
+5101081     Gabin
+5101082     Grabowno Wielkie
+5101086     Grabow n. Pilica
+5101089     Grabiny
+5101090     Greboszow
+5101091     Gdynia Chylonia
+5101092     Goczalkowice
+5101095     Gluchowo
+5101096     Gosciszewo
+5101097     Gorzow Chrzanowski
+5101098     Goczalkow
+5101100     Goleczewo
+5101103     Garczegorze
+5101104     Gdansk Oliwa
+5101105     Gdakowo
+5101107     Gorka Duchowna
+5101110     Gdynia Grabowek
+5101111     Grodzie
+5101112     Gardeja
+5101114     Gdansk Lipce
+5101116     Gdansk Orunia
+5101117     Gdansk Politechnika
+5101118     Gdynia Orlowo
+5101120     Gdynia Stocznia
+5101124     Gdynia Wielki Kack
+5101126     Gdynia Redlowo
+5101127     Gdansk Zaspa
+5101129     Gronowo Elblaskie
+5101130     Grebocice
+5101131     Grebocin
+5101132     Grodek
+5101135     Gluszyca Gorna
+5101140     Gogolin
+5101141     Grzegorzewo
+5101142     Glogowek
+5101147     Goniadz
+5101149     Gieniusze
+5101151     Gierwaty
+5101152     Goliszow
+5101154     Gieraltow
+5101155     Gieraltow Wykroty
+5101158     Grajewo
+5101160     Golubie Kaszubskie
+5101162     Grodzisko Dolne
+5101164     Garki
+5101165     Gorzuchow Klodzki
+5101166     Gdansk Osowa
+5101167     Gora Kalwaria
+5101168     Gorki Sl.
+5101169     Gorki Noteckie
+5101170     Golaszewo Kujawskie
+5101171     Gadkow Wielki
+5101175     Golab
+5101176     Gluchow
+5101177     Glebokie Miedzyrzec.
+5101178     Glogow Malopolski
+5101179     Glogow Huta
+5101180     Gliwice Kuznica
+5101181     Gliwice Labedy
+5101185     Gluszyno Pomorskie
+5101186     Gluchow Skierniew.
+5101187     Golotczyzna
+5101189     Gralewo
+5101191     Gluszyca
+5101194     Grodzisk Mazowiecki Muzeum
+5101195     Grudziadz Mniszek
+5101196     Grodzisk Mazowiecki Okrezna
+5101197     Grodzisk Mazowiecki Piaskowa
+5101198     Grodzisk Mazowiecki Radonska
+5101202     Gniewczyna
+5101203     Gliniczek
+5101204     Gronajny
+5101205     Gniewkowo
+5101207     Granowo Nowotomyskie
+5101208     Glinnik
+5101213     Gliniszcze
+5101214     Golina
+5101217     Godetowo
+5101220     Gogolewo
+5101221     Gorzuchowo Chelmins.
+5101224     Goczalkowice Zdroj
+5101226     Gomunice
+5101228     Gorowo
+5101232     Gotki
+5101233     Gorna Grupa
+5101234     Gozdowo
+5101239     Gorki Pomorskie
+5101242     Gdansk Przymorze
+5101247     Grebow
+5101251     Grotniki
+5101253     Grodkow Slaski
+5101254     Grylewo
+5101255     Grodzisk Mazowiecki
+5101256     Gromnik
+5101257     Grom
+5101258     Grudziadz Przedm.
+5101259     Gregorowce
+5101260     Grzedzice Stargardz.
+5101263     Grodzisk Wlkp.
+5101264     Grybow
+5101266     Gdansk Stocznia
+5101267     Grzeska
+5101268     Goszcza
+5101269     Gosniewice
+5101274     Gorki Szczukowskie
+5101277     Goleszow
+5101279     Gostynin
+5101282     Grupa
+5101284     Grudze
+5101289     Gutowo Wlkp.
+5101293     Gutkowo
+5101294     Gutowiec
+5101295     Gultowy
+5101296     Grudziadz
+5101297     Glowaczewo
+5101299     Gwda Mala
+5101302     Goscicino Wejherows.
+5101303     Gorzow Wlkp. Karnin
+5101304     Gdynia Wzg. Maksym.
+5101305     Gawrony
+5101306     Goworowo
+5101307     Gdansk Wrzeszcz
+5101310     Gorzyca
+5101311     Gdynia Leszczynki
+5101312     Gorzyniec
+5101315     Grzywna
+5101316     Gryzliny
+5101317     Gdansk Zabianka
+5101318     Grzybno
+5101319     Golancz
+5101320     Gorzedow
+5101321     Gorzow Wlkp. Zielen.
+5101323     Gzin
+5101324     Gorzkowice
+5101326     Gorzow Wlkp.Zamoscie
+5101327     Gorzanow
+5101329     Gorzupia
+5101331     Glucholazy
+5101332     Grodziszcze Mazowiecki
+5101334     Hajnowka
+5101337     Horyniec Zdroj
+5101338     Holowki Duze
+5101339     Henrykowo
+5101340     Hel
+5101341     Henrykow
+5101343     Halinow
+5101347     Hucisko
+5101351     Hartowiec
+5101352     Imbramowice
+5101356     Ilowa Zaganska
+5101357     Ilowiec
+5101358     Ilawa Miasto
+5101359     Imielin
+5101360     Inwald
+5101361     Ilowo
+5101362     Inowroclaw Rabinek
+5101363     Iwin
+5101366     Izbica
+5101368     Jackow
+5101371     Jackowice
+5101372     Jadachy
+5101377     Jaksice
+5101378     Jarzebia Laka
+5101381     Jarosty
+5101382     Jastrzebie Pom.
+5101383     Jarszewo
+5101385     Jastarnia
+5101388     Jazy
+5101392     Jedlicze Lodzkie
+5101394     Jedlina Gorna
+5101395     Jedlnia Letnisko
+5101396     Jedlicze
+5101397     Jedlicze Mecinka
+5101400     Jackowo Dworskie
+5101401     Jadwizyn
+5101402     Jelna
+5101403     Jezewo
+5101406     Jelen
+5101407     Jeglia
+5101408     Jedrzychowice
+5101410     Jedlnia Koscielna
+5101411     Jelcz Miloszyce
+5101414     Jesionka
+5101417     Jezow Sudecki
+5101418     Jeziorki Waleckie
+5101419     Jeruty
+5101420     Jezow
+5101421     Jagodzin
+5101423     Jelenia Gora Sobies.
+5101424     Jelenia Gora Zach.
+5101425     Jelenino
+5101426     Jawiszowice Jaznik
+5101428     Jablon Koscielna
+5101429     Jaktorow
+5101432     Jaskowice Legnickie
+5101433     Jelenia Gora Orle
+5101435     Jelesnia
+5101436     Jerzmanice Lubuskie
+5101437     Jelowa
+5101438     Jamielnik
+5101441     Jankowo Dolne
+5101442     Janikowo
+5101443     Jankowa
+5101444     Janinow
+5101446     Jankowo Pomorskie
+5101447     Jankowa Zaganska
+5101449     Jaroszowiec Olkuski
+5101450     Jonkowo
+5101453     Jozefow
+5101454     Jankow Przygodzki
+5101455     Jerzmanki
+5101456     Jarzebiec
+5101460     Jasienica Dolna
+5101461     Jastrzebna
+5101464     Jastrzebsko
+5101465     Jasionna Lowicka
+5101466     Jasienica Mazowiecka
+5101467     Jasien Brzeski
+5101468     Jasiona
+5101469     Jastrzab
+5101471     Jastrowie
+5101476     Julianka
+5101478     Jurata
+5101479     Justynow
+5101481     Juszczyn
+5101482     Jaworzno Ciezkowice
+5101483     Janowice Wielkie
+5101486     Janowek
+5101487     Jawor
+5101488     Jaworzno k. Wielunia
+5101491     Jaszczow
+5101493     Jezierzany
+5101496     Jezowka
+5101502     Jezierzyce Slupskie
+5101504     Kaliska
+5101506     Kaczkowo
+5101508     Kamienna Karczma
+5101511     Kanie Helenowskie
+5101513     Kamionki Jezioro
+5101514     Kaliska Kujawskie
+5101515     Kaly
+5101517     Kanie
+5101518     Karlino
+5101519     Kalisz Pomorski
+5101522     Katowice Ligota
+5101524     Kaniow
+5101525     Kawcze
+5101526     Kaczory
+5101527     Katowice Zaleze
+5101528     Krakow Bonarka
+5101529     Kobylec
+5101531     Krakow Borek Falecki
+5101533     Krobia
+5101534     Kobylka
+5101535     Radostowice
+5101536     Kobylnica
+5101537     Katowice Zawodzie
+5101539     Kobylnica Slupska
+5101540     Kolbuszowa
+5101542     Katowice Brynow
+5101545     Krobica
+5101546     Kaczyce
+5101547     Krosnowice Klodzkie
+5101551     Karcino
+5101558     Kosciernica
+5101559     Kozla Kozuchowska
+5101563     Klodawa
+5101564     Klodzko Glowne
+5101565     Kolodziejowo
+5101566     Klodzko Ksiazek
+5101567     Klodzko Miasto
+5101569     Kepa
+5101571     Kaleczyn
+5101574     Koszecin
+5101575     Krasnolaka
+5101576     Krasnik
+5101577     Kedzierzyn Kozle Za.
+5101579     Kedzierzyn Kozle Az.
+5101581     Kalembina
+5101584     Kepice
+5101585     Krezel
+5101587     Keszyce
+5101588     Kety
+5101589     Krosnice Maz.
+5101591     Klewki
+5101592     Kety Podlesie
+5101593     Kedzierzyn Kozle Pr.
+5101595     Krzywin Gryfinski
+5101596     Kozy Zagroda
+5101599     Kamienna Gora
+5101603     Kielce Bialogon
+5101604     Kielce Czarnow
+5101605     Kopalina
+5101606     Kiekrz
+5101609     Kaliszki
+5101612     Kielpino Kartuskie
+5101613     Klimontow
+5101616     Kielce Piaski
+5101620     Kornik
+5101623     Krosnice
+5101624     Koscierzyna
+5101626     Kreznica Jara
+5101630     Krajenka
+5101631     Krojanty
+5101632     Kalisz Kaszubski
+5101633     Krakow Lobzow
+5101635     Kakolewo
+5101638     Krakow Krzemionki
+5101639     Kulin Klodzki
+5101642     Krakow Swoszowice
+5101643     Kokotow
+5101644     Karnkowo
+5101645     Krakow Zablocie
+5101648     Klepacze
+5101650     Klecza Dolna
+5101652     Klecza Gorna
+5101654     Karlowice
+5101655     Klaj
+5101657     Kleszczele
+5101658     Klembow
+5101661     Kolbiel
+5101662     Klodzko Zagorze
+5101664     Klementowice
+5101666     Klokowa
+5101668     Kolumna
+5101670     Kamionka Wielka
+5101672     Klomnice
+5101673     Krakow Mydlniki Wap.
+5101674     Kamienczyce
+5101675     Kozmin Wielkopolski
+5101677     Kamiensk
+5101678     Kamien Lowicki
+5101681     Komprachcice
+5101682     Krzemionki
+5101684     Kamien Sl.
+5101687     Komorow
+5101688     Krzemienica
+5101689     Krakow Mydlniki
+5101691     Karolinowka
+5101700     Konojady
+5101703     Koniecpol Magdasz
+5101704     Kamienna Nowa
+5101706     Konopki
+5101712     Krzeszna
+5101713     Knyszyn
+5101716     Kobylin
+5101720     Kolonia
+5101723     Kolin(PL)
+5101724     Kojszowka
+5101733     Kotun
+5101736     Kowalow
+5101737     Kozy
+5101741     Komorow Podmurynia
+5101745     Kepka
+5101746     Katowice Piotrowice
+5101748     Klepnica
+5101749     Krepa Krajenska
+5101750     Krosno Polanka
+5101753     Krzepice
+5101755     Kramsk
+5101756     Krakow Batowice
+5101757     Krakow Biezanow
+5101759     Krakow Biezanow Dr.
+5101761     Krasnystaw Fabryczny
+5101763     Kornelin
+5101765     Krasiejow
+5101768     Krosno Miasto
+5101770     Krosno
+5101771     Kornatowo
+5101773     Krakow Sidzina
+5101774     Krosno Turaszowka
+5101776     Karwice
+5101778     Krynka Lukowska
+5101780     Ksiazki
+5101781     Kalisz Szczypiorno
+5101784     Ksieginice
+5101786     Kliniska
+5101788     Krasnystaw Miasto
+5101793     Kosiorki
+5101797     Koszewnica
+5101799     Krosnowa
+5101800     Myslowice Kosztowy
+5101803     Katne
+5101804     Kotomierz
+5101805     Konotopie
+5101806     Kotlin
+5101808     Katowice Podlesie
+5101809     Kostomloty
+5101812     Katowice Szopien.Pl.
+5101815     Kostow
+5101817     Katy Wroclawskie
+5101818     Krostkowo
+5101819     Kostrzyn Wielkopolski
+5101821     Kubice
+5101823     Kundzin
+5101824     Kuleje
+5101825     Kotulin
+5101826     Krusze
+5101827     Kuznica (Hel)
+5101830     Kuklinow
+5101832     Kotowo
+5101833     Kunow
+5101835     Kupienino
+5101837     Kusieta Nowe
+5101838     Kulice Tczewskie
+5101843     Kuznia Raciborska
+5101844     Krzewie
+5101848     Krolewo Malborskie
+5101849     Kwieciszowice
+5101850     Kwidzyn
+5101851     Kawnice
+5101854     Krzepow
+5101855     Kwiatki
+5101859     Karwica Mazurska
+5101860     Kalisz Winiary
+5101863     Krzeszowice
+5101864     Kolonowskie
+5101866     Krzycko Wielkie
+5101868     Korwinow
+5101871     Komorowo Zulawskie
+5101874     Krzyzanowice
+5101875     Korzybie
+5101876     Konczyce
+5101877     Krzywda
+5101880     Krzymosze
+5101881     Kruszyna
+5101883     Konczyce Radomskie
+5101885     Krzyzowa
+5101887     Krzywizna
+5101889     Kalwaria Zebrzydowsk
+5101890     Karzec
+5101893     Kozlowo
+5101894     Konin Zaganski
+5101895     Konin Zachod
+5101896     Kazimierowka
+5101897     Krzciecice
+5101898     Koziolek
+5101900     Kotorz Maly
+5101901     Korzenica
+5101902     Kozia Gora
+5101905     Koziebrody
+5101906     Korzensko
+5101911     Kozlow
+5101917     Ladzin
+5101918     Lasek
+5101919     Lag
+5101924     Laliki
+5101925     Lambinowice
+5101926     Lankiejmy
+5101927     Lapy Osse
+5101929     Lakociny
+5101931     Lask
+5101932     Lancut
+5101933     Lasow
+5101934     Lawica
+5101935     Laznow
+5101936     Lazy
+5101937     Lazek
+5101939     Lubaczow
+5101943     Lubania Lipiny
+5101944     Lubawka
+5101947     Lubanice
+5101950     Lewin Brzeski
+5101951     Lubaszowa
+5101952     Lubartow
+5101954     Lubicz
+5101955     Lachowice Centrum
+5101956     Luciazanka
+5101958     Lesiecin
+5101959     Lack
+5101963     Czerwionka
+5101964     Leczyca
+5101965     Laczna
+5101966     Czerwionka Debiensko
+5101967     Ludynia Dwor
+5101969     Ledziechowo
+5101970     Ludwikowice Klodzkie
+5101974     Lodz Widzew
+5101977     Leba
+5101979     Lednogora
+5101981     Legionowo
+5101982     Legnica Piekary
+5101983     Ladek Stojkow
+5101987     Lencze
+5101988     Leonow
+5101990     Leosia
+5101991     Leszczyny
+5101992     Letownia
+5101994     Lesiow
+5101995     Lewki
+5101996     Legajny
+5101997     Lezajsk
+5101998     Leszno Gorne
+5101999     Laziska Gorne Brada
+5102001     Ligowiec
+5102003     Leszno Grzybowo
+5102006     Legowo Sulechowskie
+5102009     Libiaz
+5102013     Lisie Pole
+5102015     Lipuska Huta
+5102018     Lipka Krajenska
+5102021     Linowo
+5102022     Lipno
+5102023     Lipki
+5102024     Lisowo
+5102027     Lipowa Tucholska
+5102028     Lipusz
+5102030     Lisewo
+5102033     Lizawice
+5102038     Leokadia
+5102041     Lewin Klodzki
+5102043     Leka Opatowska
+5102044     Lubon k. Poznania
+5102047     Lukow Sl.
+5102049     Laski Lubuskie
+5102051     Lublinek
+5102053     Luslawice
+5102057     Lipinskie Male
+5102058     Lubomino
+5102061     Lubnia
+5102062     Lesniczowka
+5102063     Lniano
+5102064     Linkowo
+5102068     Lebork Nowy Swiat
+5102069     Lipno Nowe
+5102071     Loznica(PL)
+5102073     Lochow
+5102074     Lodygowice
+5102075     Lososiowice
+5102076     Lodygowice Gorne
+5102077     Lowicz Przedmiescie
+5102082     Lodz Olechow
+5102083     Lopuchowo
+5102085     Losiow
+5102086     Lotyn
+5102088     Lowczow
+5102090     Lipa(PL)
+5102092     Lipienica
+5102093     Lipinki
+5102094     Lipinki Luzyckie
+5102097     Leopoldow
+5102098     Lipowe Pole
+5102099     Legionowo Przystanek
+5102100     Lopatki
+5102101     Lipowa Slaska
+5102102     Lipce Reymontowskie
+5102106     Lesnice
+5102107     Laskownica
+5102108     Jelcz Laskowice
+5102111     Laskowice Oleskie
+5102113     Laski Tucholskie
+5102115     Leszczydol
+5102118     Letnica
+5102119     Ligota Toszecka
+5102121     Lublin Pln.
+5102122     Lubiana
+5102124     Luczyce
+5102126     Lubanie
+5102128     Lugi Gorzyckie
+5102130     Lubiewo
+5102131     Lubajny
+5102132     Lukow Lapiguz
+5102136     Lubowo
+5102140     Lutol Suchy
+5102145     Ludynia
+5102146     Luzino
+5102150     Lewickie
+5102152     Lwowek Slaski
+5102161     Lucynow
+5102162     Lysomice
+5102163     Laskarzew Przystanek
+5102166     Lomnica Zdroj
+5102167     Laziska Gorne
+5102168     Lubzina
+5102169     Lublin Zemborzyce
+5102173     Lodz Zabieniec
+5102174     Majdan
+5102175     Kosina
+5102178     Male Gacno
+5102179     Makow Podhalanski
+5102181     Majewo
+5102182     Maksymilianowo
+5102184     Malomice
+5102187     Marczow
+5102188     Maslonskie Natalin
+5102189     Matysy
+5102194     Myslowice Brzezinka
+5102196     Milcza
+5102197     Moscisko Dzierzonio.
+5102199     Michalowice
+5102201     Marcinkowo
+5102203     Michalow Reginow
+5102205     Miedzyborow
+5102206     Modlin
+5102208     Miedwiecko
+5102209     Mordy
+5102211     Melno
+5102213     Miedzyborz Sycowski
+5102217     Miedzychod
+5102218     Mecikal
+5102220     Mieszkowice
+5102221     Mielno Koszalinskie
+5102226     Mierzecin Strzelecki
+5102228     Mecka Wola
+5102229     Miedzyrzecz
+5102231     Morag Kolonia
+5102234     Mialy
+5102236     Michalczew
+5102239     Miastko
+5102240     Milanowek Grudow
+5102241     Michalin
+5102242     Mienia
+5102243     Milejow
+5102244     Mikolow
+5102245     Milcz
+5102247     Minkowice
+5102249     Miedzyrzec Podl.
+5102250     Milkow
+5102252     Misie
+5102256     Milik
+5102258     Milicz
+5102259     Mikolow Jamna
+5102260     Majdan Krolewski
+5102262     Mika
+5102263     Milkowice
+5102264     Moskale
+5102265     Miekinia
+5102266     Miasteczko Krajensk.
+5102267     Malbork Kaldowo
+5102269     Makow
+5102271     Makoszyce
+5102272     Mikulowa
+5102274     Mokrzyca Wielka
+5102277     Milobadz
+5102278     Malczyce
+5102279     Mleczewo
+5102280     Malogoszcz
+5102282     Malichy
+5102283     Mikolajki Pomorskie
+5102284     Mlynsko
+5102285     Milocin Lubelski
+5102287     Mlodow
+5102288     Milogoszcz
+5102292     Mlawa Miasto
+5102293     Minsk Mazowiecki
+5102295     Machnacz
+5102298     Milanowek
+5102300     Mankowice
+5102301     Minkowice Olawskie
+5102302     Myszkow Nowa Wies
+5102303     Mokra
+5102308     Monki
+5102310     Mokrz
+5102311     Modla
+5102313     Montowo
+5102317     Mostki
+5102318     Motycz
+5102319     Mokra Wies
+5102320     Mokrzyca
+5102324     Mrzezino
+5102325     Myszkow-Mrzyglod
+5102331     Mirsk
+5102332     Martiany
+5102335     Mrozow
+5102340     Mscice
+5102341     Myszkow
+5102342     Miloslaw
+5102343     Mosina
+5102344     Miasowa
+5102349     Mszalnica
+5102350     Mosty(PL)
+5102353     Mietkow
+5102354     Mostowka
+5102355     Motycz Lesny
+5102356     Munina
+5102357     Murowana Goslina
+5102362     Muszyna Zdroj
+5102364     Milowka
+5102366     Malowice Wolowskie
+5102367     Myslakow
+5102373     Myslakowice
+5102374     Mordy Miasto
+5102375     Mysliczyn
+5102379     Myszkow Swiatowit
+5102383     Moszczenica
+5102384     Morzeszczyn
+5102385     Mieszkow
+5102388     Moszczenica Pomorska
+5102390     Morzyca
+5102394     Najmowo
+5102396     Namyslin
+5102400     Naterki
+5102403     Narzym
+5102407     Nowa Deba
+5102409     Nowy Dwor Mazowiecki
+5102411     Nekla
+5102412     Niedoradz
+5102415     Nedza
+5102416     Niedzwiedz
+5102417     Nieszawa Waganiec
+5102418     Niedzwiedz Wielkopolskie
+5102420     Niedzwiada Lowicka
+5102423     Niemojki
+5102428     Niewodnica
+5102429     Nedza Wies
+5102430     Niegocin
+5102433     Niedrzwica
+5102435     Nicwald
+5102440     Nisko Podwolina
+5102445     Nisko Osiedle
+5102446     Nieporet
+5102447     Nisko
+5102451     Niziny
+5102453     Naklo Sl.
+5102454     Niedrzwica Koscielna
+5102456     Nowy Las
+5102457     Nowa Wies Leborska
+5102458     Nowy Mlyn
+5102459     Nowogrod Bobrzanski
+5102461     Nowe Drezdenko
+5102462     Nowa Grobla
+5102463     Nowa Iwiczna
+5102469     Nosowko
+5102470     Nowe Kutnowskie
+5102472     Nielep
+5102475     Nisko Raclawice
+5102476     Nowa Ruda Przedmiescie
+5102477     Nowy Sacz Biegonice
+5102479     Nowosielce
+5102480     Nowy Sacz Jamnica
+5102481     Nowa Sarzyna Kolonia
+5102482     Nowe Skalmierzyce
+5102484     Nowa Sarzyna
+5102486     Nowy Swietow
+5102487     Nietkowice
+5102490     Nurzec
+5102491     Nowy Widzim
+5102492     Nowa Wies Warszawska
+5102493     Nowa Wies Cierpkie
+5102494     Nowogrod Osiedle
+5102495     Nowa Wies Elcka
+5102497     Nowa Wies Wielka
+5102499     Nowa Wies Legnicka
+5102500     Nowawies Mochy
+5102504     Nawra
+5102512     Nowy Nurzec
+5102513     Nowy Solec
+5102514     Nowy Tomysl
+5102515     Nowy Zagorz
+5102516     Pierwoszow
+5102522     Obrowo
+5102523     Oborzyska Stare
+5102524     Obra Stara
+5102527     Ociaz
+5102529     Ostrowki k.Chodziezy
+5102537     Odolion
+5102538     Odolanow
+5102540     Ognica
+5102541     Ogrodniki
+5102544     Ograszka
+5102545     Opole Grotowice
+5102548     Osielec
+5102549     Ostrowite k. Jablon.
+5102554     Okmiany
+5102556     Okonek
+5102557     Okraglica
+5102559     Okrzeja
+5102560     Olawa
+5102567     Olszyna Lubanska
+5102569     Olszanka
+5102573     Olkusz
+5102574     Oleszyce
+5102577     Ozarow Mazowiecki
+5102578     Ostromecko
+5102584     Osowiec
+5102585     Ostrowy
+5102586     Opacz
+5102587     Opole Wschodnie
+5102588     Opole Groszowice
+5102589     Opole Goslawice
+5102591     Opalenica
+5102592     Opoczno
+5102593     Osowiec Przystanek
+5102595     Opatowek
+5102597     Opole Zachodnie
+5102600     Orzesze
+5102601     Orzesze Jaskowice
+5102602     Orzeszkowo
+5102604     Orzesze Miasto
+5102605     Orneta
+5102608     Orzeszkow
+5102611     Osie
+5102613     Ostrowie Biebrzansk.
+5102616     Osetnica
+5102622     Osina
+5102623     Osola
+5102624     Ostroleka
+5102626     Ostaszewo Torunskie
+5102632     Otloczyn
+5102634     Otoczna
+5102635     Otrebusy
+5102636     Otusz
+5102637     Otwock
+5102639     Ossow
+5102641     Ostrowiecko
+5102642     Ostrowek Wegrowski
+5102643     Owinska
+5102645     Ostrow Wlkp. Gorzyce
+5102646     Oborniki Wlkp.Miasto
+5102647     Ostrowiec Swietokrzyski
+5102649     Olszyny
+5102650     Olsztyn Zachodni
+5102652     Ozimek
+5102654     Ozorkow
+5102656     Olsztynek
+5102658     Paczyna
+5102660     Paczkowo
+5102664     Pagow Wask.
+5102665     Pacholeta
+5102666     Pasieki
+5102670     Pamiatkowo
+5102671     Panki
+5102674     Pawlow Wlkp.
+5102676     Patkow
+5102677     Patnow Wielunski
+5102679     Pawlowice
+5102680     Parlin
+5102684     Prabuty Gory
+5102685     Pobiedziska Letnisko
+5102689     Piersciec
+5102690     Parczew
+5102694     Piaseczno
+5102696     Przecza
+5102699     Podborsko
+5102700     Podlesiec
+5102702     Podlasek
+5102704     Podlesie
+5102705     Podkowa Lesna Gl
+5102706     Podkowa Lesna Wsch.
+5102707     Przedmoscie Swiete
+5102710     Podbor
+5102712     Podstolice
+5102714     Podolany
+5102715     Podleze
+5102717     Pierzyska
+5102718     Peckowo
+5102720     Perkowice
+5102721     Pegow
+5102722     Pelkinie
+5102723     Pepowo Kartuskie
+5102724     Pelplin
+5102728     Pepowo
+5102729     Perkowo
+5102730     Piesienice
+5102735     Pezino
+5102737     Poznan Garbary
+5102738     Poznan Gorczyn
+5102740     Pogwizdow
+5102741     Pogorzel Wielka
+5102742     Pogorzelice
+5102743     Pilawa Gorna
+5102746     Pogorzel Warszawska
+5102748     Polichna Krasnicka
+5102749     Pilchowice Nielestno
+5102751     Pilchowice Zapora
+5102752     Piasek
+5102755     Piechowice Dolne
+5102756     Piensk
+5102759     Piechowice
+5102761     Pilchow
+5102762     Pikus
+5102765     Pinczyn
+5102766     Pionki
+5102772     Piastow
+5102773     Piwniczna
+5102774     Pieczyska
+5102775     Pionki Zachodnie
+5102779     Pila Kalina
+5102783     Pakoslawice
+5102789     Potok Krasnicki
+5102790     Piekoszow
+5102791     Parkowo
+5102792     Podkowa Lesna Zach.
+5102795     Plock
+5102796     Paledzie
+5102800     Plochocin
+5102801     Pliszka
+5102803     Plonsk
+5102808     Plawna
+5102809     Plock Radziwie
+5102810     Plociczno k. Suwalk
+5102811     Plock Trzepowo
+5102813     Zagrody Kosciol
+5102816     Plycwia
+5102819     Pomiechowek
+5102823     Promno
+5102825     Przemysl Zasanie
+5102826     Porazyn
+5102827     Poznan Antoninek
+5102828     Poznan Debina
+5102830     Poznan Debiec
+5102835     Poznan Wola
+5102838     Poznan Karolin
+5102840     Panowice
+5102841     Poznan Krzesiny
+5102842     Pieniezno
+5102845     Pobiedziska
+5102847     Podbiele
+5102851     Podskarbice Szlache.
+5102853     Poznan Junikowo
+5102854     Pokrzywnica
+5102857     Poniec
+5102858     Pozog
+5102860     Poraj
+5102862     Potok
+5102863     Policzna
+5102865     Powalki
+5102867     Poznan Wschod
+5102871     Popielow
+5102872     Pila Podlasie
+5102873     Popowo Skwierzynskie
+5102874     Papowo Torunskie
+5102875     Polesie
+5102878     Przylek Duzy
+5102886     Przylep
+5102888     Prostyn
+5102889     Prostki
+5102890     Proboszczewice Ploc.
+5102891     Poronin
+5102895     Przylubie
+5102901     Pszczew
+5102903     Piasecznica
+5102908     Pasym
+5102914     Poznan Strzeszyn
+5102915     Piastoszyn
+5102916     Pasikurowice
+5102920     Pszczyna
+5102921     Pszczolki
+5102922     Ptaszkowa
+5102924     Platerow
+5102925     Potegowo
+5102926     Prostynia
+5102927     Pietrzykowice Zywie.
+5102931     Ptaszkowo Wlkp.
+5102932     Ptusza
+5102936     Puck
+5102940     Pruszkow WKD
+5102942     Pruszcz Gdanski
+5102943     Pulawy Chemia
+5102945     Pulankowice
+5102946     Pulawy
+5102947     Pulawy Miasto
+5102948     Pruchna
+5102949     Puszczykowko
+5102950     Pruszcz Pomorski
+5102955     Puszczykowo
+5102960     Podwierzbie
+5102966     Parlowko
+5102972     Powroznik
+5102975     Pawlowek
+5102976     Piwniczna Zdroj
+5102978     Przysieka Stara
+5102980     Plytnica
+5102981     Przymiarki
+5102982     Przybylowice
+5102985     Przywory Opolskie
+5102987     Pyskowice
+5102989     Pyzowka
+5102992     Przybowka
+5102996     Przygodzice
+5102997     Pierzchno
+5103000     Przytkowice
+5103004     Przytocko
+5103005     Przeradz
+5103006     Przysieczyn
+5103007     Przetycz
+5103008     Przysucha
+5103013     Myslowice Brzeczkow.
+5103014     Pulawy Azoty
+5103015     Raba Wyzna
+5103017     Racewo
+5103021     Radziechowy Wieprz.
+5103023     Rajsk
+5103024     Rakowice
+5103025     Radliczyce
+5103026     Radziwillow Mazowiec
+5103027     Radun
+5103028     Radomysl(PL)
+5103031     Raszowa
+5103032     Raciborow Kutnowski
+5103036     Rozanystok
+5103039     Rybnik Niedobczyce
+5103041     Rybnik Niewiadom
+5103042     Rybienko
+5103043     Rybnik Gotartowice
+5103044     Rebiszow
+5103045     Rabka Zdroj
+5103046     Rabino
+5103047     Rebusz
+5103048     Racibory
+5103050     Rychnowo Wielkie
+5103051     Raciaz
+5103052     Raclawki
+5103053     Raciborz Markowice
+5103057     Radziszow
+5103058     Ruda Chebzie
+5103059     Radzice
+5103060     Radkowice
+5103062     Radom Potkanow
+5103063     Radnica
+5103065     Radom Poludniowy
+5103067     Radow
+5103068     Radymno
+5103070     Reda
+5103071     Redaki
+5103072     Reblino
+5103073     Reclaw
+5103075     Reda Pieleszewo
+5103076     Regnow
+5103077     Rebiechowo
+5103079     Rejowiec
+5103080     Rekowo
+5103084     Reptowo
+5103090     Reguly
+5103091     Recz Pomorski
+5103093     Rogiedle
+5103094     Rogoznica
+5103096     Rogozno Pomorskie
+5103098     Rogow
+5103099     Rogozew
+5103103     Rumia Janowo
+5103104     Rajcza
+5103106     Rajec Poduchowny
+5103109     Rudniki k. Czestoch.
+5103110     Rokita
+5103111     Rogozno k. Lancuta
+5103112     Rudnik n. Sanem
+5103115     Rokitnia Stara
+5103116     Rokietnica
+5103118     Rykoszyn
+5103121     Rudna Miasto
+5103126     Rynkowo Wiadukt
+5103127     Rakoniewice
+5103128     Rudnik Stroza
+5103129     Rakoniewice Milickie
+5103130     Roznowo
+5103133     Rozyny
+5103134     Ruciane Nida Zach.
+5103137     Rogalice
+5103138     Rozedranka
+5103142     Rokitki
+5103144     Rokiciny
+5103148     Rosochatka
+5103149     Rokiciny Podhalansk.
+5103150     Roszkow Raciborski
+5103152     Rokitki Tczewskie
+5103156     Rybnik Piaski
+5103157     Ropczyce
+5103158     Ruskie Piaski
+5103159     Rybno Pomorskie
+5103160     Rozprza
+5103161     Rybnik Rymer
+5103162     Ruda Sl.
+5103164     Rzesnica
+5103166     Rusinowice
+5103167     Rostarzewo
+5103169     Rybnik Towarowy
+5103170     Roztoki Bystrzyckie
+5103171     Rutwica
+5103172     Rutkowice
+5103174     Rogow Tow. Wask.
+5103175     Ruda
+5103176     Rudawa
+5103180     Ruchocice
+5103181     Rudzieniec Gliwicki
+5103186     Rumia
+5103188     Ruda Opalin
+5103189     Rudnik Przystanek
+5103190     Rurka
+5103192     Ruda Talubska
+5103193     Rudzienice Suskie
+5103196     Ruszow
+5103197     Rogow Osob.Wask
+5103199     Rudna Wielka
+5103200     Roszkowo Wagrowieck.
+5103201     Ruda Wielka
+5103202     Rawa Mazowiecka
+5103206     Rycerka
+5103209     Rydzyna
+5103210     Rytel
+5103213     Rybnica
+5103214     Ryjewo
+5103215     Ryki
+5103217     Radzymin
+5103221     Rytro
+5103222     Rudyszwald
+5103223     Rytel Wies
+5103224     Rybnik Paruszowiec
+5103230     Rzeczyca
+5103234     Rozki
+5103235     Rzeczyca Kolonia
+5103238     Rzozow
+5103240     Rzerzeczyce
+5103241     Rzeszow Staroniwa
+5103242     Rzeszow Osiedle
+5103243     Rzeczyce Slaskie
+5103244     Rzezawa
+5103246     Sarnaki
+5103247     Sabinka
+5103248     Sadowice Wroclawskie
+5103253     Starachowice Wsch.
+5103254     Sadlinki
+5103255     Strzyzyna
+5103256     Sadurki
+5103257     Sierakow Wlkp.
+5103258     Samborowo
+5103259     Sanok Dabrowka
+5103261     Staw Kunowski
+5103262     Sarnow(PL)
+5103263     Satopy Samulewo
+5103264     Satopy
+5103265     Stalowa Wola Centrum
+5103267     Sadowne Wegrowskie
+5103270     Samostrzel
+5103271     Stary Borek
+5103272     Strabla
+5103274     Szybowice
+5103275     Swiebodzice
+5103278     Stare Bojanowo
+5103279     Sobkow
+5103280     Strzebielino Morskie
+5103283     Strzebielewo Pyrzy.
+5103284     Swiebodzin
+5103288     Sokolowo Budzynskie
+5103289     Sobow
+5103292     Szulborze Koty
+5103293     Sol Kiczora
+5103294     Szczebrzeszyn
+5103295     Sycewice
+5103301     Slawiecice
+5103303     Solec Wlkp.
+5103305     Straczno
+5103307     Suszec Kopalnia
+5103315     Skoczow
+5103319     Siedlisko Czarnkows.
+5103320     Sosnowiec Dandowka
+5103324     Szydlowo Krajenskie
+5103325     Siedliska k. Tuchowa
+5103327     Swidnica Miasto
+5103329     Szadkowice
+5103334     Swierki Dolne
+5103335     Szczedrzykowice
+5103336     Sieradz Meka
+5103337     Sedzice
+5103339     Siedlec Trzebnicki
+5103341     Siedlecin
+5103342     Sterlawki Wielkie
+5103343     Stegna Gdanska
+5103346     Strzelce Kujawskie
+5103347     Seroki
+5103349     Sedziszow Malopolski
+5103351     Serock
+5103355     Siemiatycze
+5103358     Sieradz Warta
+5103359     Strzebin
+5103360     Szczecin Port Centr.
+5103361     Sedzislaw
+5103362     Stanowice
+5103364     Szaniawy
+5103366     Szczepanowice
+5103367     Swiekatowo
+5103369     Szaflary Wies
+5103375     Szarow
+5103377     Szczaniec
+5103379     Stawiguda
+5103381     Starogard Gdanski
+5103382     Stogi Malborskie
+5103386     Strzegom
+5103388     Stary Grodkow
+5103389     Stare Guty
+5103390     Stara Kamienica
+5103395     Siedliska
+5103396     Skibno
+5103398     Sidra
+5103400     Strzelinko
+5103403     Siechnice
+5103404     Szczecin Zdroje
+5103405     Sierakow
+5103406     Silno
+5103410     Sierpc
+5103411     Szczecin Zdunowo
+5103412     Sierpow
+5103413     Sierakowice Skierni.
+5103414     Sitno
+5103416     Silnowo
+5103418     Stykow Ilzecki
+5103420     Sieniawa Zarska
+5103422     Swieradow Zdroj
+5103424     Sulejowek Milosna
+5103425     Swiercze
+5103426     Skawa
+5103427     Skoczow Bladnice
+5103428     Skawce
+5103430     Skepe
+5103431     Skorka
+5103432     Skwierzyna
+5103434     Skalmierz
+5103435     Skleczki
+5103437     Skoki
+5103439     Skokowa
+5103440     Skrzynki
+5103441     Skawa Srodkowa
+5103443     Stare Kurowo
+5103444     Sierakowek
+5103445     Skorzewo
+5103449     Slawki
+5103453     Slesin
+5103454     Slowienkowo
+5103456     Sterlawki Male
+5103457     Sliwice
+5103458     Stok Lacki
+5103460     Slawa Wlkp.
+5103461     Slomniki
+5103463     Slonice
+5103464     Slupia
+5103465     Slomniki Miasto
+5103467     Slosinko
+5103468     Slotwiny
+5103469     Slupca
+5103470     Slawkow
+5103471     Slomianka
+5103472     Slowik Przystanek
+5103474     Smardy
+5103476     Smardzew
+5103477     Smetowo
+5103478     Szymocice
+5103483     Smolec
+5103485     Smolniki
+5103487     Smogorzow Przysuski
+5103489     Smrokow
+5103490     Sumina Wies
+5103492     Szymankowo
+5103493     Smardzow Wrocl.
+5103501     Slonowice
+5103502     Scinawka Srednia
+5103505     Swinoujscie Port
+5103507     Solniki Wielkie
+5103508     Szczecin Zalom
+5103510     Sanok Miasto
+5103511     Swinoujscie Przytor
+5103514     Stanislawice
+5103515     Santok
+5103517     Szewnica
+5103518     Sieniawa
+5103519     Szczecinek Chyze
+5103520     Sitkowka Nowiny
+5103521     Staniszcze Male
+5103522     Sobolew
+5103524     Sobibor
+5103525     Sochaczew
+5103527     Solec Kujawski
+5103528     Sokoliniec
+5103533     Sol(PL)
+5103534     Somonino
+5103536     Sosnie Ostrowskie
+5103537     Sopot Wyscigi
+5103540     Sosnowe
+5103542     Sokule
+5103544     Sowin
+5103547     Sowczyce
+5103549     Staropole Czestocho.
+5103552     Szpegawsk
+5103556     Splawie
+5103557     Sopot Kamienny Potok
+5103561     Strykowo Poznanskie
+5103565     Spychowo
+5103567     Sterkowiec
+5103568     Suszec Rudziczka
+5103570     Sliwiczki
+5103571     Sroda Slaska
+5103572     Sroda Wlkp.
+5103573     Sarbiewo
+5103576     Stare Olesno
+5103577     Starachowice Michal.
+5103579     Stary Jawor
+5103584     Srodborow
+5103586     Stare Pole
+5103587     Skierniewice Rawka
+5103588     Skoroszyce
+5103590     Stara Lubianka
+5103591     Stara Wies
+5103593     Starkowo
+5103594     Skarzysko Zachodnie
+5103595     Skarzysko Koscielne
+5103596     Stasin Polny
+5103597     Suszka
+5103599     Suliszewo Drawskie
+5103601     Szklarska Poreba Dolna
+5103604     Sosnica Jaroslawska
+5103606     Stronie Sl.
+5103608     Sosnowiec Kazimierz
+5103613     Szastarka
+5103614     Strzyzyno Slupskie
+5103615     Sztumska Wies
+5103616     Sosnowiec Porabka
+5103617     Suszec
+5103623     Steknica
+5103624     Stefanowo
+5103626     Starachowice
+5103627     Staniatki
+5103628     Stare Juchy
+5103631     Stramnica
+5103632     Stronno
+5103633     Stobno(Pilskie)
+5103635     Strazow
+5103636     Steszew
+5103638     Studzianka
+5103639     Stalowa Wola Pld
+5103643     Starczow
+5103644     Susk
+5103646     Subkowy
+5103648     Suchedniow
+5103651     Stupsk Mazowiecki
+5103652     Suchowolce
+5103653     Sulino
+5103654     Sulejowek
+5103656     Sulechow
+5103657     Sumina
+5103659     Sulow
+5103660     Suchedniow Pln.
+5103662     Surochow
+5103663     Susz
+5103664     Suchatowka
+5103665     Stulno
+5103666     Studzianki Nowe
+5103669     Suchy Bor Opolski
+5103672     Sulecinek
+5103673     Swarozyn
+5103674     Swiba
+5103676     Swider
+5103677     Swedow
+5103678     Stawno
+5103680     Swietochlowice
+5103682     Swinoujscie Odra
+5103683     Swilcza
+5103684     Swidnik Miasto
+5103685     Swidnik Wsch.
+5103686     Swobodna
+5103688     Swarzedz
+5103690     Swietajno
+5103691     Sulkowice
+5103692     Swarzewo
+5103693     Stawy
+5103696     Skowarcz
+5103697     Szeroki Bor
+5103698     Szydlowiec
+5103699     Swieta Katarzyna
+5103704     Sztum
+5103706     Szewce
+5103711     Szymbory
+5103712     Sycze
+5103713     Sucha Zyrardowska
+5103715     Szydlow
+5103716     Stary Wegliniec
+5103717     Szczytna
+5103720     Stary Kisielin
+5103722     Teresin Niepokalanow
+5103724     Skrzynno
+5103726     Stryszow
+5103727     Stary Sacz
+5103728     Stary Klukom
+5103729     Strykow
+5103730     Stary Wielislaw
+5103733     Strzyzow n.Wislokiem
+5103734     Szachy
+5103735     Szebnie
+5103736     Szczepki
+5103737     Szaflary
+5103739     Szlachta
+5103741     Szczejkowice
+5103742     Szklarska Poreba Srednia
+5103745     Szreniawa
+5103748     Strzalkowo
+5103750     Szymiszow
+5103751     Sztutowo
+5103757     Tarnobrzeg
+5103758     Taciszow
+5103760     Targowiska
+5103761     Tarchaly Wielkie
+5103762     Tarnowo Rogozinskie
+5103764     Tarlo
+5103766     Tarnowiec
+5103767     Tarnow Opolski
+5103768     Tarnowo Pom.
+5103772     Tarzymiechy
+5103773     Taczanow
+5103777     Tereszpol Bilgorajs.
+5103781     Terespol Pomorski
+5103786     Tuczno Krajenskie
+5103787     Tluszcz
+5103788     Tlen
+5103789     Tloki
+5103792     Tomaszow Mazow. Bia.
+5103794     Tarnow Moscice
+5103795     Tulowice Niemodlins.
+5103796     Nowy Bierun
+5103797     Tolkiny
+5103799     Tomaszow Boleslawie.
+5103800     Torun Czerniewice
+5103806     Topola Osiedle
+5103807     Toporow
+5103808     Torzym
+5103809     Toszek
+5103810     Torun Miasto
+5103811     Torun Kluczyki
+5103812     Torun Wschodni
+5103816     Turowo Pomorskie
+5103817     Topor
+5103818     Trabki
+5103819     Warszawa Lotnisko Chopina
+5103821     Trzciana
+5103831     Troszyn
+5103832     Trypucie
+5103833     Trzebaw Rosnowko
+5103837     Trawniki
+5103838     Tryncza
+5103839     Trzcinsko
+5103841     Turzno
+5103842     Tuchola
+5103843     Turbia
+5103845     Turza Wielka
+5103846     Tuchow
+5103850     Tuly
+5103851     Tumlin
+5103852     Turzno Kujawskie
+5103853     Tuchorza
+5103854     Tuplice Debinka
+5103855     Turow
+5103859     Turzynow
+5103860     Tuczki
+5103861     Tworki
+5103862     Twarda Gora
+5103864     Twardawa
+5103866     Tworkow
+5103867     Twardogora Sycowska
+5103869     Tychy Zwakow
+5103870     Tychowo
+5103873     Kobior
+5103876     Tymien
+5103880     Tychy Miasto
+5103882     Tychy Zach
+5103888     Trzemeszno
+5103889     Trzebnica
+5103891     Trzebiszewo
+5103894     Ubocze
+5103897     Urle
+5103902     Uhrusk
+5103903     Ulikowo
+5103907     Unislaw Pomorski
+5103909     Unieszewo
+5103914     Ustron Polana
+5103915     Ustanowek
+5103916     Ustron
+5103917     Uhrusk Przystanek
+5103918     Uhowo
+5103919     Ustron Zdroj
+5103920     Warszawa Goclawek
+5103921     Walawa
+5103922     Warszawa Rembertow
+5103923     Warszawa Choszczowka
+5103924     Wadowice
+5103925     Warszawa Golabki
+5103926     Walbrzych Fabryczny
+5103927     Warszawa Olsz. Groc.
+5103929     Warszawa Aleje Jerozolimskie WKD
+5103930     Warszawa Kolo
+5103932     Warszawa Miedzeszyn
+5103933     Wandzin
+5103934     Warszawa Ochota
+5103935     Waplewo
+5103937     Warka
+5103938     Wasilkow
+5103939     Warszawa Ochota WKD
+5103940     Warszawa Ursus
+5103941     Wegierska Gorka
+5103942     Warszawa Wawer
+5103945     Wloclawek Brzezie
+5103946     Wroblik Szlachecki
+5103948     Wierzbno
+5103949     Wierzbowa Sl.
+5103950     Wabrzezno
+5103952     Warszawa Dawidy
+5103955     Wachock
+5103956     Wrzescie
+5103957     Warzachewka
+5103959     Wieliczka Park
+5103960     Wieclawice
+5103961     Wisloczanka
+5103962     Wierchomla Wielka
+5103963     Walcz Radun
+5103964     Wierzchoslawice
+5103965     Wierzchowice
+5103966     Wilczyska
+5103967     Walcz
+5103968     Rydultowy
+5103969     Widzino
+5103970     Wodzislaw Sl. Radlin
+5103971     Wodzislaw Sl.Obszary
+5103972     Widzow Teklinow
+5103980     Wegrzce Wielkie
+5103981     Wegry
+5103982     Wejherowo Smiechowo
+5103984     Wejherowo Nanice
+5103985     Wiekowo
+5103986     Wielanowo
+5103992     Wesola
+5103994     Wielun
+5103998     Warszawa Falenica
+5104000     Wegorzyno
+5104001     Wagrowiec
+5104002     Wargowo
+5104003     Wagry
+5104005     Widacz
+5104008     Widuchowa
+5104009     Widelka
+5104011     Wielen Polnocny
+5104013     Wierzchucin
+5104016     Wiktorowo
+5104018     Wieruszow Miasto
+5104021     Wipsowo
+5104023     Wiry
+5104024     Wisniowa
+5104025     Witanow
+5104028     Wieniawa
+5104030     Wiezyca
+5104032     Warszawa Jeziorki
+5104033     Wojaszowka
+5104037     Wojnowice Wlkp.
+5104042     Wilkowice Bystra
+5104044     Wilkowo Swiebodzins.
+5104047     Walki
+5104049     Wilkolaz
+5104050     Wilkow Namyslowski
+5104052     Warkocz
+5104054     Wkra
+5104055     Wilkoszewice
+5104057     Wilkowice
+5104058     Wisla Kopydlo
+5104059     Wilkolaz Wies
+5104061     Wladyslawowo
+5104062     Wolbrom
+5104063     Wlodawa
+5104064     Wlen
+5104065     Wloszakowice
+5104067     Waldowo Szlacheckie
+5104068     Wola Radziszowska
+5104070     Wola Lipieniecka
+5104071     Wolomin Sloneczna
+5104073     Wladyslawowo Port
+5104074     Wola Rowska
+5104076     Wlostowo
+5104079     Wloclawek Zazamcze
+5104080     Warszawa Miedzylesie
+5104082     Wierna Rzeka
+5104083     Wrzesnica
+5104089     Warnowo
+5104092     Wolica
+5104093     Wola Bierwiecka
+5104095     Wodzislaw Sl.
+5104096     Wolenice
+5104097     Wola Filipowska
+5104098     Wola Grzybowska
+5104100     Wojanow
+5104102     Wolanow
+5104103     Wolomin
+5104104     Wolczyn
+5104105     Wolowno
+5104106     Wolin Pomorski
+5104107     Worowo
+5104108     Woszczele
+5104109     Wolka Ratowiecka
+5104111     Wolka
+5104114     Wolsztyn
+5104120     Wroclaw Psie Pole
+5104121     Wolka Okopska
+5104122     Wiesiolka
+5104124     Wrzaca Pomorska
+5104125     Wroclaw Brochow
+5104126     Wroclawki
+5104127     Wroclaw Nowy Dwor
+5104129     Wroblin Glogowski
+5104130     Wroclaw Muchobor
+5104133     Wroclaw Lesnica
+5104134     Wroclaw Mikolajow
+5104135     Wronki
+5104137     Wroclaw Pawlowice
+5104138     Wroclaw Zerniki
+5104139     Wroclaw Soltysowice
+5104140     Wroclaw Kuzniki
+5104141     Wrzosow
+5104142     Wroclaw Popowice
+5104144     Wroniawy
+5104145     Wrzosowo
+5104146     Warszawa Anin
+5104147     Wisla Oblaziec
+5104149     Warszawa Radosc
+5104150     Warszawa Okecie
+5104151     Walbrzych Szczawien.
+5104152     Wisla Glebce
+5104153     Wisla Dziechcinka
+5104154     Warszawa Powisle
+5104156     Warszawa Kasprzaka
+5104157     Warszawa Sluzewiec
+5104158     Warszawa Stadion
+5104160     Warszawa Pludy
+5104161     Warszawa Praga
+5104162     Warszawa Salomea
+5104163     Warszawa Reduta Ord.
+5104164     Warszawa Ursus Pln.
+5104165     Warszawa Wlochy
+5104168     Witaszyce
+5104169     Witnica Chojenska
+5104170     Ropczyce Witkowice
+5104172     Witonia
+5104173     Witkow Sl.
+5104174     Witkowo Pyrzyckie
+5104177     Witowo
+5104178     Wudzyn
+5104179     Warlubie
+5104180     Wieruszow
+5104181     Wisla Uzdrowisko
+5104184     Wroclaw Osobowice
+5104185     Wiewiecko
+5104192     Wawolnica
+5104193     Wroclaw Pracze
+5104194     Wroclaw Zakrzow
+5104196     Warszawa Torunska
+5104198     Wroclaw Swiniary
+5104199     Wroclaw Zachodni
+5104201     Wydartowo
+5104203     Wydminy
+5104204     Wygoda
+5104206     Wykno
+5104208     Wysoka Braniewska
+5104210     Wyrzysk Osiek
+5104211     Wyszkow
+5104213     Wyszyny
+5104214     Wyszomierz
+5104216     Warszawa Rakowiec
+5104219     Wola Rzedzinska
+5104220     Wieliszew
+5104221     Warszawa Srodmiescie WKD
+5104222     Wierzbica Gorna
+5104223     Warszawa Zachodnia WKD
+5104224     Wierzawice
+5104226     Warszawa Wilenska
+5104227     Warszawa Zeran
+5104228     Warszawa Zachodnia (peron 8)
+5104229     Warszawa Rakow
+5104230     Wierzchucin Stary
+5104231     Wierzchowo Czluchow.
+5104233     Warszawa ZOO
+5104234     Zabiny
+5104235     Zarzeka
+5104236     Zaborze
+5104237     Zaczernie
+5104238     Zajezierze k.Debli.
+5104240     Zaborow
+5104245     Zakowice
+5104246     Zalno
+5104249     Zaosie
+5104251     Zarow
+5104252     Zastow
+5104254     Zabrowo
+5104255     Zawada
+5104257     Zawadzkie
+5104258     Zbaszyn
+5104259     Zbaszyn Przedmiescie
+5104261     Zabno k. Chojnic
+5104263     Zabi Rog
+5104266     Zblewo
+5104268     Zabierzow
+5104271     Zabrzeg Czarnolesie
+5104274     Zbydniow
+5104275     Zabiezki
+5104277     Zdzieszowice
+5104278     Zdrody Nowe
+5104280     Zdrojowisko
+5104282     Zduny
+5104286     Zebrzydowa
+5104287     Zebice Wroclawskie
+5104289     Zegiestow
+5104294     Zelislawice
+5104295     Zembrzyce
+5104301     Zelistrzewo
+5104304     Zegiestow Zdroj
+5104305     Zagajnik
+5104306     Zagrody
+5104308     Zgierz
+5104309     Zagnansk
+5104310     Zagosciniec
+5104311     Zgierz Pln.
+5104314     Zagorz
+5104316     Zielen
+5104319     Zawidz
+5104322     Zielonka
+5104324     Zimnochy
+5104325     Zielonczyn
+5104327     Zielonka Paslecka
+5104328     Zielonka Pomorska
+5104330     Ziemomysl
+5104332     Zajaczkowo Lubawskie
+5104334     Zary Kunice
+5104336     Zabki
+5104337     Zaklikow
+5104338     Zakrzow Kotowice
+5104340     Zakrzow Sarnowo
+5104341     Zakrzewo Zlotowskie
+5104342     Zlota
+5104343     Zlocieniec
+5104344     Zalesie Gorne
+5104346     Zlojec
+5104347     Zalesie Kraszenskie
+5104349     Zlotniki Kutnowskie
+5104350     Zlotniki
+5104353     Zelislawie Pomorskie
+5104354     Zlotniki Kujawskie
+5104356     Zlotow
+5104358     Rzeszow Zaleze
+5104359     Zmigrod
+5104363     Zamek Bulowicki
+5104366     Zamosc
+5104369     Zory
+5104372     Zorawina
+5104373     Zoltnica
+5104376     Zosinow
+5104377     Zolwino
+5104379     Zarebki
+5104380     Zareba
+5104381     Zarki Letnisko
+5104383     Zarosle
+5104386     Zarszyn
+5104387     Zabkowice Slaskie
+5104388     Zastocze
+5104390     Zulin
+5104391     Zurawica Rozrzadowa
+5104392     Zubrzyk
+5104395     Zurawica
+5104396     Zukowo Wschodnie
+5104398     Zwardon(PL)
+5104399     Zawiercie Borowe Pol
+5104401     Zawadowka
+5104402     Rzeszow Zwieczyca
+5104403     Zwierzyniec
+5104406     Zawidz Koscielny
+5104408     Zawady Rawskie
+5104410     Zyczyn
+5104412     Zygmuntow
+5104413     Zychlin
+5104414     Zygmuntowo Mazowiec.
+5104415     Zyrardow
+5104417     Zytkowice
+5104418     Zywiec
+5104420     Zarzecze
+5104422     Zielone Wzgorza
+5104424     Porosiuki
+5104430     Galezinowo
+5104431     Kaczorowo
+5104446     Wieliczka Rynek-Kopalnia
+5104453     Marcinkow
+5104477     Podzamcze
+5104478     Jastarnia Wczasy
+5104494     Milowka Zabawa
+5104496     Nowy Dwor Gdanski
+5104497     Pszczyna Czarkow
+5104501     Wroclaw Stadion
+5104519     Rajcza Centrum
+5104520     Minsk Mazowiecki Anielina
+5104530     Kostrzyn(Gr)
+5104531     Zgorzelec(Gr)
+5104532     Zebrzydowice(Gr)
+5104533     Medyka(Gr)
+5104536     Miasteczko Slaskie
+5104541     Zakowice PLD
+5104542     Lowczowek Plesna
+5104563     Ciecina Dolna
+5104580     Siedlce Baza
+5104581     Lukow Zapowiednik
+5104583     Kobylany
+5104584     Nowe Debe Wielkie
+5104585     Gdynia Cisowa
+5104614     Katowice Dw autobusowy Piotra Skargi 8 peron 1
+5104621     Krakow Glowny (Dworzec autobusowy Bosacka 18)
+5104631     Opole Glowne Dworzec autobusowy 1 Maja 4
+5104651     Wroclaw Glowny (Dworzec autobusowy Sucha 1-11)
+5104660     Wloszczowa Polnoc
+5104667     Karpacz Bahus
+5104668     Karpacz Osr. Zdrowia
+5104669     Karpacz Bialy Jar
+5104670     Karpacz Morskie Oko
+5104671     Karpacz Pegaz
+5104672     Karpacz Wang
+5104673     Karpacz Gorny
+5104674     Swidnik P. Lotniczy
+5104675     Lublin Zadebie
+5104676     Lublin Ponikwoda
+5104677     Niemce
+5104678     Kolobrzeg Kostrzewno
+5104679     Warszawa Zacisze-Wilno
+5104680     Polanczyk
+5104681     Buk(Bieszczady)
+5104682     Lesko
+5104683     Ozorkow Nowe Miasto
+5104684     Parczew Kolejowa
+5104685     Zgierz Jaracza
+5104686     Warszawa Ursus Niedzwiadek
+5104687     Lodz Pabianicka
+5104688     Lodz Radogoszcz Zachod
+5104689     Port Lotniczy Szczecin-Goleniow
+5104690     Glinnik Wies
+5104691     Lodz Dabrowa
+5104692     Kazimierz Dolny
+5104693     Bochotnica
+5104694     Parchatka
+5104695     Domaniewice Centrum
+5104696     Zabiele
+5104697     Pulawy Centrum
+5104698     Malinka Skocznia
+5104699     Palecznica
+5104700     Malinka Bajczary
+5104701     Wisla Kolejowa
+5104702     Stronie Slaskie PKS
+5104704     Sucha Beskidzka Rynek
+5104705     Nowy Targ PKS
+5104706     Szaflary Milosnikow Podhala
+5104707     Ladek Zdroj Rynek
+5104708     Naleczow Miasto
+5104712     Lodz Stoki
+5104713     Lodz Marysin
+5104714     Lodz Arturowek
+5104717     Kalnica Bus
+5104718     Majdan Kolejka Bus
+5104719     Wolkowyja Bus
+5104720     Bukowiec Skrzyz. Bus
+5104721     Lesko Bus
+5104722     Polanki Bus
+5104723     Wetlina Przel. Wyzna
+5104724     Brzegi Gorne
+5104725     Brzego Gorne Wyznianski Wierch
+5104726     Przyslup
+5104727     Smerek
+5104728     Terka
+5104729     Wetlina Stare Siolo
+5104730     Katy Rybackie
+5104731     Krynica Morska
+5104732     Modlin Lotnisko (Flughafen)
+5104735     Stobno Szczecinskie
+5105071     Lubartow Lipowa
+5105072     Lubartow Slowackiego
+5105622     Szklarska Poreba-Jakuszyce
+5105712     Glucholazy(Gr)
+5108040     Krakow Business Park
+5112002     Tarnowska Wola
+5128148     Warszawa Aleje Jerozolimskie PKP
+5141772     Rogoznica k. Rzeszowa
+5149451     Warszawa Zwirki i Wigury
+5158234     Oldrzychowice Zamek
+5163718     Szklarska Poreba Huta
+5175822     Milocin
+5181456     Cygany
+5189954     Swinoujscie Centrum
+5193610     Slubice
+5196001     KRAKOW
+5196002     POZNAN
+5196003     WARSZAWA
+5196004     SZCZECIN
+5196005     CZESTOCHOWA-
+5196006     GDYNIA
+5196007     GDANSK
+5196008     OLSZTYN
+5196009     OSTRODA-
+5196010     LODZ
+5196011     OLESNICA
+5196012     LOWICZ
+5197725     Siedlce Zachodnie
