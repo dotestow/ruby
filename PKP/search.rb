@@ -1,5 +1,3 @@
-require './params'
-
 class Search
   @@stations =
     File.read("ibnr").split("\n").map do |station|
@@ -8,19 +6,21 @@ class Search
     end.to_h
   
   def initialize
-    @params = DEFAULT_PARAMS.clone
-    @from_or_to = false   # TODO check if equal instead Kraków default both
+    @params = {
+      "queryPageDisplayed"=>"yes", "REQ0JourneyStopsS0A"=>"1", "REQ0JourneyStopsS0G"=>"5100028",
+      "REQ0JourneyStopsS0ID"=>nil, "REQ0JourneyStops1.0G"=>nil, "REQ0JourneyStopover1"=>nil,
+      "REQ0JourneyStops2.0G"=>nil, "REQ0JourneyStopover2"=>nil, "REQ0JourneyStopsZ0A"=>"1",
+      "REQ0JourneyStopsZ0G"=>"5100028", "start"=>"start", "existUnsharpSearch"=>"yes", "came_from_form"=>"1"
+    }
   end
 
   def from(station)
-    @from_or_to = true
     nr = find_station(station)
     @params["REQ0JourneyStopsS0G"] = nr
     self
   end
 
   def to(station)
-    @from_or_to = true
     nr = find_station(station)
     @params["REQ0JourneyStopsZ0G"] = nr
     self
@@ -30,7 +30,7 @@ class Search
     @params["time"] = @params["REQ0JourneyTime"] = time
     self
   end
-
+  
   def date(date)
     param_names = ["date", "dateStart", "dateEnd", "REQ0JourneyDate"]
     param_names.each { |name| @params[name] = date }
@@ -38,9 +38,11 @@ class Search
   end
   
   def compile
-    prefix = "/pl/tp?"#"http://rozklad-pkp.pl/pl/tp?"
+    if @params["REQ0JourneyStopsZ0G"] == @params["REQ0JourneyStopsS0G"]
+      raise "Initial and target stations are the same"
+    end
     params = @params.map { |k, v| "#{k}=#{v}" }.join("&")
-    "#{prefix}#{params}#focus"
+    ["rozklad-pkp.pl", "/pl/tp?#{params}#focus"]
   end
 
   private
